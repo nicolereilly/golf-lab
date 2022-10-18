@@ -42,16 +42,17 @@ p {
 .maintxt {
   position: relative;
 }
-.maintxt > img,
-.overlay-text {
-  position:relative;
-}
 
 .card {
   margin: auto;
   text-align: center;
 }
 
+.btn{
+  background-color: cornflowerblue;
+  color: white;
+  
+}
 
 /* Navbar container */
 .navbar {
