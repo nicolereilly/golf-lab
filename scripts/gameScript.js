@@ -29,10 +29,10 @@ $(function () { //CHARLIE info
   
   
   const CHARLIE = [ //Charlie Games
-    { //Maggie Little
-    name: "Maggie Little",
-    gameName: "",
-    url: ""
+    { //Nicole Reilly
+    name: "Nicole Reilly",
+    gameName: "THE Doge Game",
+    url: "https://nicolereilly.github.io/charlie-lab/"
     },  
     { //Hunter McGriff
       name: "Hunter McGriff",
@@ -126,10 +126,10 @@ $(function () { //CHARLIE info
   
   
   const DELTA = [
-    { //Nicole Reilly
-      name: "Nicole Reilly",
-      gameName: "Spirit Animal Discovery",
-      url: "https://nicolereilly.github.io/delta-lab/"
+    { //Maggie Little
+      name: "Maggie Little",
+      gameName: "Amazing Name Facts",
+      url: "https://mlittle98.github.io/DELTALAB/"
     },
     { //Emily Tinnon
       name: "Emily Tinnon",
@@ -181,12 +181,12 @@ $(function () { //CHARLIE info
       gameName: "Learn Your Spirit Animal",
       url: "https://tythomas21.github.io/delta/"
     },
-    { //NEW
+    { //Zachary Newell
       name: "Zachary Newell",
       gameName: "",
       url: ""
     },
-    {
+    { //Hardik Gupta
       name: "Hardik Gupta",
       gameName: "",
       url: ""
